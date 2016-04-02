@@ -1,0 +1,27 @@
+{
+  "name": "open-github-events",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tap -- test/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "github": "^0.2.4",
+    "github-ls": "^1.0.4",
+    "hyperquest": "^1.3.0",
+    "inert": "^3.2.0",
+    "open-event": "^1.0.0",
+    "open-github-teams": "^1.3.4",
+    "stream-to-string": "^1.0.1",
+    "vision": "^4.0.1"
+  },
+  "devDependencies": {
+    "standard": "^6.0.8",
+    "tap": "^5.7.0"
+  },
+  "description": ""
+}
