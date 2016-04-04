@@ -14,9 +14,13 @@
     "github-ls": "^1.0.4",
     "hyperquest": "^1.3.0",
     "inert": "^3.2.0",
+    "moment-timezone": "^0.5.3",
     "open-event": "^1.0.0",
     "open-github-teams": "^1.3.4",
+    "sheetsee": "0.0.2",
     "stream-to-string": "^1.0.1",
+    "tabletop": "^1.4.3",
+    "tz-lookup": "^6.0.2",
     "vision": "^4.0.1"
   },
   "devDependencies": {
