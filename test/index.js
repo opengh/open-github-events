@@ -1,7 +1,7 @@
 'use strict'
 
 const test = require('tap').test
-const ghEvents = require('../lib/ghEvents')
+const ghEvents = require('..')
 const Client = require('github4')
 const github = new Client({
   version: '3.0.0',
